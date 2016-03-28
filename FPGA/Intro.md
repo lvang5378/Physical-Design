@@ -22,3 +22,7 @@ FPGA is:
 primary products: FPGA and the associated CAD software
 - CLB structure (Configurable logic black)
   - programmable interconnect adn programmable logic blacks
+
+
+##Design flow
+![alt text](https://github.com/lvang5378/Physical-Design-Note/blob/master/FPGA/FPGA-design-flow.PNG)
