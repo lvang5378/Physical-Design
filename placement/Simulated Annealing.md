@@ -13,5 +13,6 @@
       - subtree swaps  
       - node cut inversion   
       - leaf node change  
-3. cost function:  
+3. cost function:    
+  area of layout + weight*(Sum of wirelength)
 4. cooling schedule  
